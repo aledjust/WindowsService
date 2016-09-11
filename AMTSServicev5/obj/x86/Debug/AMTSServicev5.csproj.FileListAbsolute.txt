@@ -1,0 +1,11 @@
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\AMTSServicev5\obj\x86\Debug\AMTSServicev5.BirthdaySender.resources
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\AMTSServicev5\bin\Debug\AMTSServicev5.exe.config
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\AMTSServicev5\bin\Debug\AMTSServicev5.exe
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\AMTSServicev5\bin\Debug\AMTSServicev5.pdb
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\AMTSServicev5\bin\Debug\EmailComponent.dll
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\AMTSServicev5\bin\Debug\EmailComponent.pdb
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\AMTSServicev5\obj\x86\Debug\AMTSServicev5.exe
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\AMTSServicev5\obj\x86\Debug\AMTSServicev5.pdb
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\AMTSServicev5\obj\x86\Debug\AMTSServicev5.csprojResolveAssemblyReference.cache
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\AMTSServicev5\obj\x86\Debug\AMTSServicev5.csproj.GenerateResource.Cache
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\AMTSServicev5\obj\x86\Debug\AMTSServicev5.ProjectInstaller.resources

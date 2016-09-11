@@ -1,0 +1,7 @@
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\GUIService\bin\Debug\GUIService.exe
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\GUIService\bin\Debug\GUIService.pdb
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\GUIService\obj\x86\Debug\GUIService.Dashboard.resources
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\GUIService\obj\x86\Debug\GUIService.Properties.Resources.resources
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\GUIService\obj\x86\Debug\GUIService.csproj.GenerateResource.Cache
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\GUIService\obj\x86\Debug\GUIService.exe
+D:\ASS WORK\C#\Windows Service\AMTSServicev5\GUIService\obj\x86\Debug\GUIService.pdb
